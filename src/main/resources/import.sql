@@ -1,3 +1,4 @@
+
 INSERT INTO tb_users(name,email,salary) VALUES ('Maria','maria@gmail.com',1348.74);
 INSERT INTO tb_users(name,email,salary) VALUES ('Joao Silva','joao@gmail.com',9276.62);
 INSERT INTO tb_users(name,email,salary) VALUES ('Carlos Silva','carlos@gmail.com',7318.75);
